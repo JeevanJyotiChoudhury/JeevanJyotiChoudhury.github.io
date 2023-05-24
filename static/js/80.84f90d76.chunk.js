@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmyportfolio=self.webpackChunkmyportfolio||[]).push([[80],{8080:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});n(2791),n(4235);var c=n(184);function o(){return(0,c.jsx)(c.Fragment,{})}},4235:function(e,t,n){e.exports=n.p+"static/media/Jeevan_Jyoti_Resume.ace06ce7619aef91c8c2.pdf"}}]);
+//# sourceMappingURL=80.84f90d76.chunk.js.map
